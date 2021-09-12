@@ -15,8 +15,7 @@
 >
 > [Software-dev](/Software-dev "Software-dev Repo")
 >
-    > [HTML](/Software-dev/HTML "HTML Repo")
- 
+>> [HTML](/Software-dev/HTML "HTML Repo")
 
 ## 👩‍💻 Author
 
