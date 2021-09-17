@@ -13,9 +13,9 @@
 >
 > [Java](/Python "Java Repo")
 >
-> [Software-dev](/Software-dev "Software-dev Repo")
+> [Software-dev (HTML, CSS & JS)](/Software-dev "Software-dev Repo")
 >
->> [HTML](/Software-dev/HTML "HTML Repo")
+>> [Sprint 1](/Software-dev/S1 "Sprint 1 Repo")
 
 ## 👩‍💻 Author
 
