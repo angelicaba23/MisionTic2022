@@ -1,0 +1,79 @@
+#nav_bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #eae7f0;
+    border: 1px solid #e7e7e7;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+}
+/*Horizontal (on one line) */
+#nav_bar li {
+    /*display: inline;*/
+    float: left;
+    flex: auto ;
+}
+#nav_bar li a {
+    display: block;
+    color: #5a2f81;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #42bcff;
+}
+a{
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    height: auto;
+}
+button {
+    transition-duration: 0.4s;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 50px;
+    background-color:#eae7f0;
+    flex: auto ;
+    border-radius: 4px;
+    }
+button:hover {
+    background-color:#5a2f81;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+button:focus{
+    background-color:#42bcff;
+    color: white;}
+
+#formRegistro {
+    padding: 200px 100px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid green;
+    border-radius: 4px;   
+  }
+  input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid green;
+    border-radius: 4px;   
+  }
+
